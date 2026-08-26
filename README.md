@@ -5,7 +5,7 @@ Documentation on the Reverse Engineering efforts into the Canon EF Protocol
 
 ### Summary of Findings
 
-All findings are summarized in the Canon EF Protocol Reverse Engineering Summary document, currently at Draft 1. 
+All findings are summarized in the [Canon EF Protocol Reverse Engineering Summary](https://github.com/FutilityDesigns/EF-Documentation-and-Development/blob/main/reports/Canon%20EF%20Protocol%20Reverse%20Engineering%20Summary%20-%20Draft%201.pdf) document, currently at Draft 1. 
 
 ### Not Yet Ready Documents
 
