@@ -1,0 +1,20 @@
+This repository is multi-licensed by content type. See the table below for which
+license applies to which directory, and LICENSES/ for the full legal
+text of each license.
+
+| Directory   | Content                                   | License        |
+|-------------|-------------------------------------------|----------------|
+| /tools      | Python reverse-engineering tools          | Apache-2.0     |
+| /firmware   | RP2350 firmware                           | Apache-2.0     |
+| /reports    | PDF reports and write-ups                 | CC-BY-SA-4.0   |
+| /data       | Raw and processed data (CSV/Excel)        | CC0-1.0        |
+
+Full license texts:
+- LICENSES/Apache-2.0.txt
+- LICENSES/CC-BY-SA-4.0.txt
+- LICENSES/CC0-1.0.txt
+
+Each top-level directory also contains its own LICENSE file naming the
+license that applies to that directory's contents. If an individual
+file carries its own SPDX-License-Identifier header or notice, that
+header takes precedence over the directory default.
